@@ -1,6 +1,6 @@
  <html>
  <head>
- <title>Буть інтернет грамотним</title>
+ <title>Будь інтернет грамотним</title>
  </head>
  <head> <title> <Strong> <font size= "+ 2"> </Strong></title></head></font>
 </head>
