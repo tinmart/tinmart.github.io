@@ -1,4 +1,5 @@
-<html>
+ <! SOCTYPE HTML PUBLIC "- // W3C // DID HTML4.01 Transitional // EN" "W3.ord/TR/html4/loose.dtd">
+ <html>
  <head>
  <title>Буть інтернет грамотним</title>
  </head>
